@@ -1,0 +1,50 @@
+#header-nav{
+	background-color: #f6b319;
+	border-radius: 0;
+	border: 0;
+
+}
+#page-heading{
+	text-align: center;
+}
+
+
+h1{
+	margin-top: 0px;
+}
+
+.menu-card{
+	background: gray;
+}
+
+.menu-card h2{
+	text-align: center;
+}
+
+.navbar-brand h1{
+	position: relative;
+	bottom: 10px;
+}
+
+#nav-list {
+  margin-top: 10px;
+  margin: 0px;
+
+
+}
+.navbar-collapse{
+	padding: 0px;
+	margin: 0px;
+}
+#nav-list a {
+  color: #951C49;
+  text-align: center;
+  background: #FED8B1;
+  border: 1px solid black;
+}
+#nav-list a:hover {
+  background: #E7E7E7;
+}
+#nav-list a span {
+  font-size: 1.8em;
+}
